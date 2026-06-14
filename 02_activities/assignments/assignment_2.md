@@ -12,7 +12,7 @@
       ```
       Good visualization: the Refugee Project https://www.therefugeeproject.org/#/2018
 
-      This is a good use of Bubble Map to visualize the story. Among the strength of this map are:
+      This is a good use of Bubble Map to visualize the story. While it may not be very 'aesthetic', it is substantive and present the data as it is. Also, the use of bubboles allows the viewer as to what regions of the orld have the highest refugees and where the population of refugees immigrate to. Among the strength of this map are:
       1- it is simple and the bubble sizes currespond to the the number of refugees originating or moving to what cuntry. Also, the contrast of the color of the bubbles against the map in the background makes the bubbles to be seen easily. 
       2- Does not contain too much information which makes is east to look at and understand.
       3- one can switch from the origin cuntry to the asylum country nd see the results separately. 
@@ -29,7 +29,7 @@
 
       Bad visualiztion https://www.economist.com/graphic-detail/2019/05/25/china-is-surprisingly-carbon-efficient-but-still-the-worlds-biggest-emitter?utm_source=pinterest&utm_medium=social
 
-      Since this is not an interactive graph, one expects to see all of the information in one glance. Considering this fact, there are a number of strengths but also weaknesses. Among the strength are:
+      Since this is not an interactive graph, one expects to see all of the information in one glance. The graph looks a little aesthetic considering the chosen colors chosen. the absence of quantitative data and also the skewed representation makes the graph not very substantive. However, it is perceptual and conveys the intended narrative. There are a number of strengths but also weaknesses. Among the strength are:
       1- without looking into the detailes, yes, one can see the point of the article so the graph is biased
       2- the countrast between the background and the colors used for the graph are pleasing to look at
       
